@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="open_second_activity">Открыть второй экран</string>
+    <string name="launch_service">Получить контакты</string>
+    <string name="permission_toast">Пока Вы не дадите разрешение, мы не сможем показать контакты</string>
+    <string name="contact_format">%1$s \nтел.: %2$s</string>
+    <string name="empty_contact_list">Список контактов пуст</string>
+</resources>
